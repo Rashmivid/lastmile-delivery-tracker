@@ -2,7 +2,7 @@
 
 A full-stack logistics management platform where customers place delivery orders with auto-calculated charges, admins configure zones/pricing and manage operations, and delivery agents update order status in real time. Built with role-based access control (Customer / Agent / Admin), a zone-based rate calculation engine, immutable order tracking, and automated email notifications.
 
-**Live App:** https://lastmile-delivery-tracker-4eh7662vq-ras12.vercel.app
+**Live App:** https://lastmile-delivery-tracker.vercel.app
 **Live API Docs (Swagger):** https://lastmile-delivery-tracker.onrender.com/docs
 
 ![Admin Setup Screen](./screenshots/admin-setup.png)
