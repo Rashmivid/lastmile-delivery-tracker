@@ -137,6 +137,11 @@ RESEND_API_KEY=your-resend-api-key-here
 ---
 
 ## Database Schema
+**Demo Accounts (for evaluation)**
+| Role | Email | Password |
+|---|---|---|
+| Admin | admin@lastmile.com | admin1234 |
+| Agent | (create one via Setup screen, or list one here) |
 
 **users**
 | Column | Type | Notes |
